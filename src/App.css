@@ -1,0 +1,22 @@
+
+
+.calculator {
+  width: 320px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #393838;
+}
+
+#screen {
+  height: 60px;
+  font-size: 24px;
+}
+
+
+.calc-btn {
+  flex: 1 1 calc(25% - 10px);
+  height: 60px;
+  font-size: 24px;
+  margin: 5px;
+
+}
